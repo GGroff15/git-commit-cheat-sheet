@@ -61,6 +61,8 @@ Identify *where a commit should start and end* so that each commit expresses a s
 * “Does the project still build/run?”
 * “Would CI pass at this point?”
 
+“If I introduce an interface, is there at least one working implementation in the same commit?”
+
 ---
 
 ### 5. Testability (Even if implicit)
